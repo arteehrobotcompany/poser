@@ -27,3 +27,11 @@ The algorithm will attempt to create a full table of values (x/y/z/pitch/yaw/rol
 ### Class diagram
 
 ![Diagram of ARC Poser](design/ClassDiagram.png)
+
+## Links
+
+http://www.open3d.org/
+https://github.com/kzampog/cilantro
+https://colmap.github.io/
+https://github.com/nywang16/Pixel2Mesh
+https://github.com/MIT-SPARK/Kimera-VIO
